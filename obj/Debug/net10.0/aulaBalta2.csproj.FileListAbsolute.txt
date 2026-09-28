@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\aulaBalta2\bin\Debug\net10.0\aulaBalta2.exe
+C:\Users\lucas\source\repos\aulaBalta2\bin\Debug\net10.0\aulaBalta2.deps.json
+C:\Users\lucas\source\repos\aulaBalta2\bin\Debug\net10.0\aulaBalta2.runtimeconfig.json
+C:\Users\lucas\source\repos\aulaBalta2\bin\Debug\net10.0\aulaBalta2.dll
+C:\Users\lucas\source\repos\aulaBalta2\bin\Debug\net10.0\aulaBalta2.pdb
+C:\Users\lucas\source\repos\aulaBalta2\obj\Debug\net10.0\aulaBalta2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\aulaBalta2\obj\Debug\net10.0\aulaBalta2.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\aulaBalta2\obj\Debug\net10.0\aulaBalta2.AssemblyInfo.cs
+C:\Users\lucas\source\repos\aulaBalta2\obj\Debug\net10.0\aulaBalta2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\aulaBalta2\obj\Debug\net10.0\aulaBalta2.sourcelink.json
+C:\Users\lucas\source\repos\aulaBalta2\obj\Debug\net10.0\aulaBalta2.dll
+C:\Users\lucas\source\repos\aulaBalta2\obj\Debug\net10.0\refint\aulaBalta2.dll
+C:\Users\lucas\source\repos\aulaBalta2\obj\Debug\net10.0\aulaBalta2.pdb
+C:\Users\lucas\source\repos\aulaBalta2\obj\Debug\net10.0\aulaBalta2.genruntimeconfig.cache
+C:\Users\lucas\source\repos\aulaBalta2\obj\Debug\net10.0\ref\aulaBalta2.dll
